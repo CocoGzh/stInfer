@@ -1,7 +1,7 @@
 analysis/
-data/
-log/
-timm_model/
+# data/
+# log/
+# timm_model/
 .git/
 .idea/
 __pycache__/
