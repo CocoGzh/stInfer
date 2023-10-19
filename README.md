@@ -8,7 +8,7 @@ Here, we propose stInfer, a method that can infer gene expression and enhance re
 Conclusions: 
 In summary, stInfer is a powerful tool that can infer gene expression and improve spatial resolution from H&E images. It holds great promise for being widely applied to complex ST data to bring novel insights into structural compositions and microenvironments.
 
-![(Variational) gcn](Figure 1.jpg)
+![](Figure 1.jpg)
 
 
 ## Getting started
