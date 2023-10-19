@@ -1,0 +1,9 @@
+analysis/
+data/
+log/
+timm_model/
+.git/
+.idea/
+__pycache__/
+*.ipynb
+*.jpg
