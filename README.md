@@ -1,5 +1,5 @@
 # stInfer
-stInfer: Spatially Transcription Expression Inference from H&E Histology Images 
+stInfer: Spatially Transcription Expression Inference of Breast Cancer from H&E Histology Images 
 
 Background: 
 The rapid development of spatial transcriptomics (ST) technology has enabled the measurement of transcript abundance while obtaining the spatial location of cells. However, the high cost has hindered the implementation of spatial omics in large-scale organizations. In addition, widely used ST platforms, such as Visium, can only measure the spots expression in low-resolution, which limits their usefulness in studying detailed structures. 
