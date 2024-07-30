@@ -6,4 +6,3 @@ analysis/
 .idea/
 __pycache__/
 *.ipynb
-*.jpg
